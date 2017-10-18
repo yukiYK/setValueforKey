@@ -1,0 +1,29 @@
+{
+    "code": 0,
+    "data": {
+        "zhima_certifications": 1,
+        "zhima": 1,
+        "loan_history": 0,
+        "credential": 0,
+        "housingfund": 0,
+        "credit_indicator": "243",
+        "button": 1,
+        "time": "2017-08-01T11:18:52.000+08:00",
+        "information": 0,
+        "report": 0,
+        "idcard": 1,
+        "contact": 1,
+        "isp": 0,
+        "jingdong": 0,
+        "taobao": 0
+    },
+    "reset_data": [],
+    "update_prompt": [
+        {
+            "identity": 1
+        },
+        {
+            "contact": 1
+        }
+    ]
+}
